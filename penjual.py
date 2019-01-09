@@ -149,7 +149,7 @@ def back_menu():
     else:
         print 'Terima Kasih !'
         print 'semoga Bermanfaat !'
-        print 'Autor : MR_XiD'
+        print 'Autor : ImamIlyasa                   '
         exit
 
 
