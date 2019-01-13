@@ -4,7 +4,7 @@ def menuutama():
     print ("Autor by : ImamIlyasa")
     print ("Ini Hanyalah rekayasa mesin kasir")
     print ("gunakan dengan bijak")
-    Print ("Gausah Di Recode Kontol")
+    print ("Gausah Di Recode Kontol")
     print ("My Team : Ali Attacker")
     print ("____________________________________")
     n = raw_input('masukkan nama Konsumen: ')
